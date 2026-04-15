@@ -78,3 +78,5 @@ dashboard/
 | OpenPyXL     | Excel file generation            |
 | ReportLab    | PDF report generation            |
 | Kaleido      | Chart → PNG for PDF embedding    |
+
+<img width="1452" height="1177" alt="image" src="https://github.com/user-attachments/assets/06b7a870-fbf6-4c1d-9318-ac26ecdcb8c5" />
